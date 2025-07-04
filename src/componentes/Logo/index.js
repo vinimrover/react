@@ -9,7 +9,7 @@ function Logo() {
             <img src = {logo} 
             alt='logo' 
             className='logo-img'></img>
-            <p><strong>Teste</strong> Books</p>
+            <p><strong>Vini</strong> Books</p>
         </div>
     )
 }
